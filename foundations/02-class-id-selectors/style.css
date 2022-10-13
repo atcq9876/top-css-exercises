@@ -1,0 +1,19 @@
+.pclass {
+    background-color: rgb(202, 107, 121);
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#two {
+    color: rgb(10, 10, 231);
+    font-size: 36px;
+}
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(129, 240, 129);
+    font-size: 24px;
+    font-weight: bold;
+}
